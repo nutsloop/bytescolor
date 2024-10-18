@@ -1,0 +1,13 @@
+[package]
+name = "bytescolor"
+version = "0.1.0"
+edition = "2021"
+rust-version = "1.70"
+authors = ["nutsloop <nutsloop@proton.me>"]
+license-file = "LICENSE"
+homepage = "https://github.com/nutsloop/bytescolor"
+description = """
+A versatile Rust library for colorizing strings and byte data in terminal applications using ANSI escape codes.
+"""
+keywords = ["terminal", "ansi", "bytes"]
+categories = ["text-processing"]
